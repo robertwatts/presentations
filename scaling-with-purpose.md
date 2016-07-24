@@ -2,12 +2,6 @@
 
 Hello, I’m Rob. 
 
-This talk is about trying to scale your development team while retaining that sense of purpose.
-
----
-
-# Disclaimer: this presentation isn’t about Spotify model vs [GENERIC\_AGILE\_SCALING\_MODEL]
-
 ---
 
 # LOST MY NAME PRODUCT PIC - PARENT WITH KID
@@ -22,12 +16,22 @@ This talk is about trying to scale your development team while retaining that se
 
 ---
 
-# Simple -> Complicated -> Complex
-/Users/rwatts/Downloads/Untitled (2).png
+# [fit] This talk is about creating
+# [fit] the right environment so that
+# [fit] **developers feel connected**
+# [fit] to your mission as your startup scales
 
 ---
 
-# At the very start, being small is simple
+# From founder team to multi dev stream complexity
+
+![inline, 150%](http://www.robwatts.org/images/presentations/scaling-with-purpose/simple_complicated_complex.png)
+
+---
+
+# Small is simple. Small is great.
+
+![right, 200%](http://www.robwatts.org/images/presentations/scaling-with-purpose/simple.png)
 
 - Everyone *involved* and *empowered* in decision making
 - Instant feedback
@@ -38,55 +42,82 @@ It’s a great time to be alive.
 
 ---
 
-# In the beginning, growing is easy
+# Growth is fun.
+
+![right, 200%](http://www.robwatts.org/images/presentations/scaling-with-purpose/complicated.png)
 
 - Every new person is AWESOME
-- Easy to get started and master the codebase
+- Quick to get started and master the codebase
 - Individuals can still make big differences
 - Growing the team is a buzz
+- Decoupling begins
 
 ---
 
-# Things get interesting when >1 team
+# Things always get more interesting at scale
+
+![right, 200%](http://www.robwatts.org/images/presentations/scaling-with-purpose/complex.png)
 
 - Dependencies
 - Boundaries
 - Hand-offs
 - Knowledge sharing
-- Roadmap planning
+- Roadmap alignment
+- …
 
 ---
 
-# At this point you may encounter
-# **developer disconnect**
+At this point you may encounter…
+# [fit] Developer Disconnect
 
 ---
 
-# "I don't know what they're doing"
+Spotting developer disconnect #1
+
+# [fit] “I don't know
+# [fit]  **what** they're doing”
 
 ---
 
-# "I don't know why they did that"
+Spotting developer disconnect #2
+
+# [fit] “I don't know 
+# [fit] **why** they did that”
 
 ---
 
-# "That doesn't affect our team"
+Spotting developer disconnect #3
+
+# [fit] “That doesn't affect us, it’s the
+# [fit] **other teams** problem”
 
 ---
 
-# "We're blocked waiting on them"
+Spotting developer disconnect #4
+
+# [fit] “We're **blocked**
+# [fit] waiting on them”
 
 ---
 
-# “Only [HERO_DEV] knows how to do that”
+Spotting developer disconnect #5
+
+# [fit] “Only **[HERO_DEV]**
+# [fit] knows how to do that”
 
 ---
 
-# "It's not like it used to be"
+Spotting developer disconnect #6
+
+# [fit] “Working here isn’t 
+# [fit] like it **used to be**”
 
 ---
 
-# We need to challenge these statements.
+# [fit] We need to challenge 
+# [fit] disconnect by restoring 
+# [fit] purpose
+
 
 ---
 
@@ -130,8 +161,11 @@ It’s a great time to be alive.
 
 ---
 
-# Pay down just enough technical debt
+# Pay down (just enough) technical debt
 
+---
+
+# Architecture is not a dirty word
 
 ---
 
@@ -139,47 +173,10 @@ It’s a great time to be alive.
 
 ---
 
-# Empowered people do amazing things
-
-A major pull factor for startup life is that employees are **empowered to make a difference**. 
-
-It would be impossible to take on established industries without empowered people working at startups.
-
----
-
-# This is not empowerment
-
-[https://s-media-cache-ak0.pinimg.com/564x/af/9e/ce/af9ece6e5071ec614b228744fef29e7e.jpg]
-
-Tempting people from this environment into yours is a *competitive advantage*.
-
----
-
-# [fit] Growing Pains
-# Invest -> Success -> Invest -> Grow
-
-^^^ This is where it gets challenging
-
----
-
-# Growing Pains
-
-When team count > 1 we are going to need
-- Planning
-- Hard dependencies
-- 
-
-# Developer disconnect
-What happens when developers no longer see the bigger picture
 
 
----
 
-# Disconnect is what happens in the Enterprise, right?
 
-No, it can happen to startups too.
-
----
 
 
 
