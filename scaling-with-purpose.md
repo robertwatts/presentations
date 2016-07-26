@@ -10,6 +10,10 @@ I’ve managed teams through high growth and slow decline.
 
 A management challenge that has always been present: purpose.
 
+^ Been working in teams since the late 90s
+Economic cycles have passed
+Purpose has consistently been the difference
+
 ---
 
 # I work at Lost My Name
@@ -24,19 +28,28 @@ We make personalised books for children.
 - Number of countries: 178
 - Created books for 97,827 different names
 
+^ Google Ventures backed last year with $9m
+Dragons Den best ever deal
+Growth has been incredible and challenging
+
 ---
 
 # Lost My Name 
 
 ![right](https://lmn-eagle-yeti-assets.imgix.net/yeti_uploads/AT19Kc8nntZ8FxyrhJIGrirO-vfC1BpNQkgquau-zfk.jpg?w=2000)
 
-- 2012: <3 developers
-- 2013: <5 developers
-- 2014: <15 developers
-- 2015: >40 developers
-- We’re hiring!
+- 2012: founder and friends
+- 2013: founder + 2 developers
+- 2014: ~8 developers in 1 team
+- 2015: ~20 developers in ~4 teams
+- 2016: ~25 developers in ~5 teams
+- [We’re hiring!](https://making.lostmy.name/listings)
 
-
+^ LMN has experienced classic startup growth
+2015 adopted squads
+2016 moved to stable larger teams
+Manage existing stack while building new
+It’s a great place to work - check out 
 
 ---
 
@@ -45,11 +58,21 @@ We make personalised books for children.
 # [fit] **developers feel connected**
 # [fit] to your mission as your startup scales
 
+^ So what’s this talk about?
+As we scale we can’t keep everybody happy
+We have tools to help 
+The tools are well known
+Applying at right time is the challenge
+
 ---
 
 # Scaling from original team to multi dev stream complexity
 
 ![inline, 150%](http://www.robwatts.org/images/presentations/scaling-with-purpose/simple_complicated_complex.png)
+
+^ Mapping agile growth to classic view on complexity
+Lost My Name is now complex, by this diagram
+
 
 ---
 
@@ -64,6 +87,11 @@ We make personalised books for children.
 
 It’s a great time to be alive.
 
+^ Structure is flat
+Knowledge is intuitively shared
+People feel connected and empowered
+Everything is new
+
 ---
 
 # Growth is fun.
@@ -75,6 +103,8 @@ It’s a great time to be alive.
 - Individuals can still make big differences
 - Growing the team is a buzz
 - Decoupling begins
+
+^ 
 
 ---
 
@@ -96,6 +126,9 @@ It’s a great time to be alive.
 ![right, fit](http://img.memecdn.com/give-a-fuck-o-meter-cup-version_o_1919793.jpg)
 
 Unfortunately the more you scale the more likely you are to encounter Developer Disconnect from a small number of people.
+
+^ It only take a small number of people
+Disconnect is contagious
 
 --- 
 
@@ -155,7 +188,11 @@ Spotting developer disconnect #6
 # [fit] disconnect by restoring 
 # [fit] purpose
 
-^ Purpose comes from above and below.  We can describe it from above but we must give space for people to find it themselves.
+
+^ Purpose comes from above and below.  
+It is both personal and contextual
+Managers can provide it from above
+We must give space for people to find it themselves.
 
 ---
 
@@ -169,6 +206,10 @@ Spotting developer disconnect #6
 
 ![right, 100%](http://2.bp.blogspot.com/-mIwyT1OYw7E/VdNA55k_1TI/AAAAAAAAFzU/OgpLSozjwPM/s1600/Screen%2Bshot%2B2015-08-18%2Bat%2B10.27.22%2BAM.png)
 
+^ Confusion spreads easily
+Give people solveable problems - targeted goals
+CTO and VP Eng pulling in different directions 
+
 ---
 
 # Break down silos
@@ -177,10 +218,15 @@ Spotting developer disconnect #6
 - No heroes for low bus factor
 - Discipline meetups
 - Cross functional squads around key deliverables
-- Continuous teams with frequent rotation
+- Persistent teams with rotation
 - Mini conferences / away days
 
 ![right](http://images.adsttc.com/media/images/51ed/521e/e8e4/4eff/9f00/0119/large_jpg/Tim_Hursley_moon_fire_2.jpg?1374507532)
+
+^ Promote communication between teams
+Don’t allow “heroes” - force them to share.  
+Heroes can’t scale, they might be amazing at the start but can detract in later stages
+Rotation: Developers most useful during first 3 months
 
 ---
 
@@ -193,7 +239,11 @@ Spotting developer disconnect #6
 
 ![right](https://mysuthings.files.wordpress.com/2016/01/chain.gif?w=687)
 
-^ Automate the tedium.  People can move easily.  Reduce silos
+^ Automate the tedium.  
+Build and deployment the biggest problem
+Blocker to your investment being in the hands of customers
+Include monitoring, alerting
+Reduce noisy apps
 
 ---
 
@@ -203,9 +253,15 @@ Spotting developer disconnect #6
 - These are the key decisions in software history
 - Usually accumulate most technical debt
 - Document context
-- Create space for alternatives and build backlog
+- Create time for alternatives and build backlog
 
 ![right, 90%](http://www.viralthread.com/wp-content/uploads/2015/06/1389.jpg)
+
+^ Definition: Architecture is the hard to change things
+Everything else is just development
+Too often in startups these decisions are lost in time
+People feel they cannot change
+Make space to tackle bad decisions or developers won’t take risks
 
 ---
 
@@ -217,6 +273,12 @@ Spotting developer disconnect #6
 - Don’t be a feature slave
 
 ![right, fit](http://www.darwinsmoney.com/wp-content/uploads/2011/07/debt-slave.jpg)
+
+^ In quest to find value in startup we create tech debt
+It’s hard to know what debt will be expensive or throwaway
+Developers find it even harder to know the difference
+A sense of “new features over anything else” can be toxic
+Show commitment to valuable software by making space in sprints to pay for debt
 
 ---
 
@@ -231,15 +293,22 @@ We can beat disconnect by
 
 But remember: you can’t take everyone with you.
 
+^ Of course your own context dictates which of these could unlock the best result
+You cannot take everyone with you
+Sometimes the company grows faster than the people in it    
+
 ---
 
-# Thanks!
+# Thanks for listening
+I hope that was useful.
 
 [rw@robwatts.org](mailto:rw@robwatts.org)
 [www.robwatts.org](http://www.robwatts.org)
+
 Twitter: [rwatts_](https://twitter.com/rwatts_)
 LinkedIn: [robertjoelwatts](https://www.linkedin.com/in/robertjoelwatts)
 
+^ I’ll be in the bar if you have any questions
 
 
 
