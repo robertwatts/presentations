@@ -6,13 +6,14 @@ I’ve been at this stuff for quite a while now.
 
 I’ve worked in small, medium and massive companies.  
 
-I’ve managed teams through high growth and slow decline.
+I’ve managed teams through high growth and necessary reductions.
 
-A management challenge that has always been present: purpose.
+The consistent management challenge: purpose.
 
 ^ Been working in teams since the late 90s
 Economic cycles have passed
 Purpose has consistently been the difference
+IMO separates average and high performing teams
 
 ---
 
@@ -91,6 +92,7 @@ It’s a great time to be alive.
 Knowledge is intuitively shared
 People feel connected and empowered
 Everything is new
+Culture is established
 
 ---
 
@@ -104,7 +106,12 @@ Everything is new
 - Growing the team is a buzz
 - Decoupling begins
 
-^ 
+^ people still making a massive impact
+The future is still in-front of you
+Still possible to keep things in your head
+Challenges present themselves
+“Do it all” mentality begins to creak
+The monolith (conceptual or otherwise) needs to be broken down
 
 ---
 
@@ -117,7 +124,9 @@ Everything is new
 - Hand-offs
 - Knowledge sharing
 - Roadmap alignment
-- …
+
+^ Now forced to consider organisational complexity
+The cultural ripple of effect begins to flatten out
 
 ---
 
